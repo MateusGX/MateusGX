@@ -55,9 +55,8 @@ A **signal-driven frontend framework** with fine-grained reactivity — no virtu
 <div align="center">
 
 <!-- Primary (mais estável) -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MateusGX&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGX&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <!-- Fallback (caso Vercel rate limit) -->
 <br/>
