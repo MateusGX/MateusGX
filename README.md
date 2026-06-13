@@ -26,23 +26,41 @@ Focused on designing and building scalable, reliable systems, with experience ac
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Lunara Engine  
-A **fantasy console** for retro-style games with Lua — directly in the browser.
+### ⚡ PraxisJS  
+A **signal-driven frontend framework** with fine-grained reactivity — no virtual DOM.
 
-→ https://github.com/MateusGX/lunara-engine
+→ https://github.com/praxisjs-org/praxisjs<br/>
+→ https://praxisjs.org/
 
-`React` `TypeScript` `Lua` `WebAssembly`
+`TypeScript`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ PraxisJS  
-A **signal-driven frontend framework** with fine-grained reactivity — no virtual DOM.
+### 🎮 Lunara Engine  
+A **fantasy console** for retro-style games with Lua — directly in the browser.
 
-→ https://github.com/praxisjs-org/praxisjs
+→ https://github.com/MateusGX/lunara-engine<br/>
+→ https://lunara.devlayer.app/
 
-`TypeScript`
+`React` `TypeScript` `Lua` `WebAssembly`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪨 Flint
+A **register-based virtual machine** and assembly-like language for building HTTP APIs and server-rendered web systems, from bytecode to browser.
+
+→ https://github.com/MateusGX/flint<br/>
+→ https://flint.devlayer.app
+
+`Rust` `VM` `HTTP`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -54,11 +72,9 @@ A **signal-driven frontend framework** with fine-grained reactivity — no virtu
 
 <div align="center">
 
-<!-- Primary (mais estável) -->
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-<!-- Fallback (caso Vercel rate limit) -->
 <br/>
 
 <img height="160" src="https://streak-stats.demolab.com?user=MateusGX&theme=dark&hide_border=true" />
