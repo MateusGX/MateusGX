@@ -62,6 +62,13 @@ A **register-based virtual machine** and assembly-like language for building HTT
 </td>
 <td width="50%" valign="top">
 
+### 📚 Myne
+A **physical book library and reading-session tracker** firmware for e-ink hardware — a personal fork of CrossPoint.
+
+→ https://github.com/MateusGX/myne
+
+`C++` `ESP32` `Embedded` `E-Ink`
+
 </td>
 </tr>
 </table>
